@@ -1,3 +1,5 @@
+Mac OS X 10.5+
+
 进入接口类的实现类：  command+atl+b
 
 查找文件：command+shift+o
