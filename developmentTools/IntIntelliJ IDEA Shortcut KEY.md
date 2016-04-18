@@ -9,3 +9,5 @@ Mac OS X 10.5+
 代码格式化： command+ alt+l
 
 查找调用方  atl+f7
+
+大小写转换 command+shift+u
