@@ -11,3 +11,5 @@ Mac OS X 10.5+
 查找调用方  atl+f7
 
 大小写转换 command+shift+u
+
+删除未引用的导入 Ctrl + Alt + O
