@@ -13,3 +13,5 @@ Mac OS X 10.5+
 大小写转换 command+shift+u
 
 删除未引用的导入 Ctrl + Alt + O
+
+ 弹出当前文件结构层，可以在弹出的层上直接输入进行筛选（可用于搜索类中的方法）command ＋F12
