@@ -17,3 +17,5 @@ Mac OS X 10.5+
  弹出当前文件结构层，可以在弹出的层上直接输入进行筛选（可用于搜索类中的方法）command ＋F12
  
   退回 / 前进到上一个操作的地方  command+ alt＋← / command+ alt＋→
+  
+  生成try代码 command+ alt+t
